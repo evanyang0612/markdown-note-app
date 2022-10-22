@@ -2,7 +2,7 @@
 
 https://markdown-note-app-scrimba.netlify.app/
 
-**_Markdown Note WebApp is inspired by a game called Tenzi. User can edit the content of note, add new notes, delete notes in a simple and handy way. Added notes will automatically saved in user's local storage so that they won't lose their notes even after closing the browser.😊 _**
+**_Markdown Note WebApp is inspired by a game called Tenzi. User can edit the content of note, add new notes, delete notes in a simple and handy way. Added notes will automatically saved in user's local storage so that they won't lose their notes even after closing the browser.😊_**
 
 **_This is one of the final Project of [Bob Ziroll's React Course on Scrimba](https://scrimba.com/learn/learnreact) developed by me._**
 
