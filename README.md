@@ -16,6 +16,6 @@ https://markdown-note-app-scrimba.netlify.app/
 ## 📷 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/110648530/197335691-237ab7dc-1af8-41cd-8704-fa1e8d4a42a8.png)
-![image](https://user-images.githubusercontent.com/110648530/197335730-63a5e755-8b8c-4a85-a747-84f73d87c938.png)
-![image](https://user-images.githubusercontent.com/110648530/197335880-36ba77ba-80b1-45d7-a063-20f4a2034ece.png)
+![image](https://user-images.githubusercontent.com/110648530/197335932-7e013d6a-6fb3-4e98-8f53-6fda44299923.png)
+![image](https://user-images.githubusercontent.com/110648530/197335947-122f0622-6760-49ee-a8b6-7c36c5d257f8.png)
 
